@@ -1,0 +1,28 @@
+---
+layout: home
+title: News & Notes
+---
+
+
+<div class="title-bar">
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <h2>News &amp; Notes</h2>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      {% for post in site.posts %}
+      <div class="post">
+          <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+          <p><strong>{{ post.date | date: "%B %e, %Y" }}</strong></p>
+          {{ post.content }}
+      {% endfor %}
+    </div>
+  </div>
+</div>
