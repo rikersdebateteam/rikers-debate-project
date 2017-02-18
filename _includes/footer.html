@@ -1,0 +1,36 @@
+<div class="footer">
+<div class="container">
+  <div class="row">
+    <div class="col-lg-4 col-sm-12">
+      <h4>Who We Are</h4>
+
+      <p>We are a group of former college debaters and current professionals dedicated to teaching students at Rikers Island the skill of competitive debate.</p>
+
+      <a target="_blank" href="https://www.paypal.me/rikersdebate">
+        <button class="btn btn-success my-2 my-sm-0" type="submit">Donate</button>
+      </a>
+    </div>
+    <div class="col-lg-4 col-sm-12 footer-pages">
+      <h4>Pages</h4>
+      <ul>
+        <li class="nav-item"><a href="/">About Us</a></li>
+        <li class="nav-item"><a href="https://paypal.me/rikersdebate" target="_blank">Support</a></li>
+        <li class="nav-item"><a href="/press">Press</a></li>
+        <li class="nav-item"><a href="/get-involved">Get Involved</a></li>
+        <li class="nav-item"><a href="/news-and-notes">News and Notes</a></li>
+        <li class="nav-item"><a href="/issues">Issues</a></li>
+        <li class="nav-item"><a href="/events">Events</a></li>
+        <li class="nav-item"><a href="/curriculum">Curriculum</a></li>
+      </ul>
+    </div>
+    <div class="col-lg-4 col-sm-12">
+      <h4>Blog Posts</h4>
+      <ul>
+        {% for post in site.posts %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.date | date: "%B %e, %Y" }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+</div>

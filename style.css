@@ -1,0 +1,70 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+}
+
+a .btn {
+  cursor: pointer;
+}
+
+.float-right.img-thumbnail {
+  margin-left: 1em;
+  margin-bottom: 1em;
+}
+
+.header {
+  padding-bottom: 1rem;
+}
+
+.jumbo-matte {
+  background-color: #111;
+  margin-bottom: 2em;
+}
+
+.title-bar {
+  background-color: rgba(103, 184, 215, 0.1);
+  border: 1px solid rgba(103, 184, 215, 0.2);
+  border-width: 1px 0;
+  padding: 4em 0 1em 0;
+  margin-bottom: 1em;
+}
+
+.footer {
+  padding: 2em 0;
+  margin-top: 5em;
+  background-color: rgba(103, 184, 215, 0.1);
+  border: 1px solid rgba(103, 184, 215, 0.2);
+}
+
+.footer .col-lg-4 {
+  margin-bottom: 3em;
+}
+
+.footer h4 {
+  font-family: 'Open Sans', sans-serif;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
+  display: block;
+  border-bottom: 1px solid rgba(103, 184, 215, 0.2);
+}
+
+.footer ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.footer-pages ul {
+  column-count: 2;
+}
+
+.footer ul li {
+  margin-bottom: 0.15em;
+  list-style: none;
+}
+
+.footer p {
+  max-width: 19em;
+}
