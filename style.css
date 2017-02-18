@@ -11,8 +11,8 @@ a .btn {
 }
 
 .float-right.img-thumbnail {
-  margin-left: 1em;
-  margin-bottom: 1em;
+  margin-left: 2em;
+  margin-bottom: 2em;
 }
 
 .header {
@@ -67,4 +67,9 @@ a .btn {
 
 .footer p {
   max-width: 19em;
+}
+
+.homepage h2 {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
 }
