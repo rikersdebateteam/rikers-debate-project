@@ -107,3 +107,19 @@ a .btn {
 .resources ul li {
   margin-top: 1em;
 }
+
+.disclaimer {
+  border-top: 1px solid #ccc;
+  padding-top: 1em;
+  font-size: 13px;
+  color: #ccc;
+  line-height: 1.25em;
+}
+
+.disclaimer strong {
+  color: #999;
+}
+
+.bio-photo {
+  max-width: 240px;
+}
