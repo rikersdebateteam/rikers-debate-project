@@ -12,7 +12,8 @@ a .btn {
 
 .float-right.img-thumbnail {
   margin-left: 2em;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
+  margin-top: 4em;
 }
 
 .header {
@@ -122,4 +123,31 @@ a .btn {
 
 .bio-photo {
   max-width: 240px;
+}
+
+.social-media {
+  display: inline-block;
+  font-weight: bold;
+  color: white;
+  background-color: black;
+  padding: 15px;
+  padding-right: 30px;
+  margin: 10px;
+}
+
+.social-media img {
+  height: 40px;
+  padding-right: 5px;
+}
+
+.social-media.facebook {
+  background-color: #3B5998;
+}
+
+.social-media.twitter {
+  background-color: #1DA1F2;
+}
+
+.social-media.email {
+  background-color: #D14836;
 }
