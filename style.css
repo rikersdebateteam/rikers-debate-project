@@ -117,7 +117,10 @@ a .btn {
 }
 
 .disclaimer {
+  max-width: 100%;
   border-top: 1px solid #ccc;
+  margin-top: 2em;
+  margin-bottom: 0px;
   padding-top: 1em;
   font-size: 13px;
   color: #ccc;
