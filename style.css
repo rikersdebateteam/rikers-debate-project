@@ -14,6 +14,10 @@ a .btn {
   cursor: pointer;
 }
 
+.nav-item {
+  margin-top: 15px;
+}
+
 .float-right.img-thumbnail {
   margin-left: 2em;
   margin-bottom: 1em;
@@ -143,8 +147,18 @@ a .btn {
   padding-right: 5px;
 }
 
+/*path, circle, rect {*/
+.social-media svg path {
+  fill: white;
+}
+
+
 .social-media.facebook {
   background-color: #3B5998;
+}
+
+.social-media.medium {
+  background-color: #00AB6B;
 }
 
 .social-media.twitter {
