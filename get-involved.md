@@ -41,8 +41,13 @@ facility, become a co-director and help plan all our classes and programming for
 those students!
 
 Please fill out the volunteer interest form below, and a member of our Personnel team
-will follow up with you shortly after.
+will follow up with you shortly after. Please read the work group document below or 
+[linked here](https://docs.google.com/document/d/14_rATuPsSx7pn2vuPx-eWg_qZzM4IUTnLUERU8GVx68/edit?usp=sharing) first.
 
 <iframe src="https://rikersdebateproject.secure.force.com/GW_Volunteers__VolunteersSignupFS" 
-frameborder="0" scrolling="false" style="font-family: 'Open Sans'" height="600" width="500">
+frameborder="0" scrolling="false" height="600" width="100%">
 </iframe>
+
+<iframe src="https://docs.google.com/document/d/14_rATuPsSx7pn2vuPx-eWg_qZzM4IUTnLUERU8GVx68/pub?embedded=true" width="100%" height="750">
+</iframe>
+
