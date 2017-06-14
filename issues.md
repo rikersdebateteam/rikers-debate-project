@@ -12,9 +12,9 @@ The Rikers Debate Project believes everyone should have the right to vote, inclu
 <p><strong> Raise the Age: </strong>
 New York has been one of only two states which treat 16 and 17-year-old teenagers as adults, trying them in adult courts and placing them in adult facilities. We are very happy to see that following the efforts of legislators and the Raise the Age campaign, with the participation of many advocacy groups, New York state has recently passed a bill which changes this (see detailed info here). 
  
-In the future, 16 and 17-year-olds who are accused of misdemeanors (and many accused of felonies) will be tried in Family Court and placed in juvenile facilities. As of October 2018, no youth under 18 will be held on Rikers island. 
+<p> In the future, 16 and 17-year-olds who are accused of misdemeanors (and many accused of felonies) will be tried in Family Court and placed in juvenile facilities. As of October 2018, no youth under 18 will be held on Rikers island. </p>
  
-While this is a big step forward, the Raise the Age campaign notes that there is still work to do in ensuring that teenagers receive age-appropriate treatment.
+<p> While this is a big step forward, the Raise the Age campaign notes that there is still work to do in ensuring that teenagers receive age-appropriate treatment. </p>
  
  <p><strong> Solitary Confinement: </strong>
  
@@ -23,10 +23,10 @@ In the past few years, Rikers ended the practice of solitary confinement for 16-
  
  <p><strong> Bail Reform: </strong>
  
-The story of Kalief Browder raised awareness of the need for pretrial reform in New York (and nationwide). Browder was held for three years at Rikers, accused of stealing a backpack, and the court delayed and delayed (he refused to plead guilty). He was held in solitary confinement, and when his charges were finally dropped and he went home, he killed himself.
+<p> The story of Kalief Browder raised awareness of the need for pretrial reform in New York (and nationwide). Browder was held for three years at Rikers, accused of stealing a backpack, and the court delayed and delayed (he refused to plead guilty). He was held in solitary confinement, and when his charges were finally dropped and he went home, he killed himself. </p>
  
- At Rikers, about 80% of detainees have not been convicted a crime, but are often held for months to years. Of those assigned bail by a judge, only 10% are able to pay. This two-tiered system, in which those with money can walk free, and those who do not languish in jail, seems to many to defy the principle that we are all “innocent until proven guilty.”
+<p> At Rikers, about 80% of detainees have not been convicted a crime, but are often held for months to years. Of those assigned bail by a judge, only 10% are able to pay. This two-tiered system, in which those with money can walk free, and those who do not languish in jail, seems to many to defy the principle that we are all “innocent until proven guilty.” </p>
  
-Bronx Freedom Fund and Brooklyn Bail Fund are two groups in New York who pay the bail for those who can’t afford it (they’re restricted to paying bail amounts under $2,000). Bronx Freedom Fund notes that defendants who await trial in jail are four times more likely to receive a prison sentence than those whose bail is paid. Brooklyn Bail Fund states that 95% of those whose bail they pay return for their court hearings. Both groups accept donations. 
+<p> Bronx Freedom Fund and Brooklyn Bail Fund are two groups in New York who pay the bail for those who can’t afford it (they’re restricted to paying bail amounts under $2,000). Bronx Freedom Fund notes that defendants who await trial in jail are four times more likely to receive a prison sentence than those whose bail is paid. Brooklyn Bail Fund states that 95% of those whose bail they pay return for their court hearings. Both groups accept donations. </p>
  
-Beyond the short-term fix of helping people pay bail, many advocacy groups are working on various ways of reducing the pretrial population. A 2017 report by an independent commission led by Former New York Chief Justice Lippman reviewed ways of reducing the Rikers pretrial population. Pretrial services could be used as opposed to holding people in Rikers, in many cases. Currently, state lawmakers are considering legislation to speed up trials (including “Kalief’s law”). Advocacy groups such as JustLeadershipUSA and Katal Center are pushing for this legislation as one way to reforming how we treat pretrial detainees in New York.
+<p> Beyond the short-term fix of helping people pay bail, many advocacy groups are working on various ways of reducing the pretrial population. A 2017 report by an independent commission led by Former New York Chief Justice Lippman reviewed ways of reducing the Rikers pretrial population. Pretrial services could be used as opposed to holding people in Rikers, in many cases. Currently, state lawmakers are considering legislation to speed up trials (including “Kalief’s law”). Advocacy groups such as JustLeadershipUSA and Katal Center are pushing for this legislation as one way to reforming how we treat pretrial detainees in New York. </p>
