@@ -1,0 +1,3 @@
+After the excitement of March’s debate between the classes, volunteers introduced a new 14 week curriculum to help students build their debate skills from the ground up. Over the first month of the curriculum, students discussed lessons starting from “How to Build an Argument” to using A-R-E method, clash, and how to see through the eyes of a judge. 
+
+Towards the end of the month, we launched our third class at Rikers Island at the Eric M. Taylor Center - a facility which houses sentenced male adults and adolescents. The class immediately proved to be a hit, and got off to a running start discussing, what else, Trump’s immigration policy. 
