@@ -21,7 +21,7 @@ RDP Board Secretary
 * **Lobby Day:** RDP's Inaugural Lobby Day will be held a week from today, March 14, in Albany, NY. The day will consist of meetings with more than a dozen legislators and two public events:
   * **Public Debate (12pm-1pm):** This will be held at the LCA Press Room, Room 130, Capitol, Albany, NY 12224. The topic will be a RDP classic: whether people who are incarcerated should have the right to vote.
   * **Networking Happy Hour: (5pm-7pm):** This will be held at "The City Beer Hall," 41 Howard St, Albany, NY 12207. Enjoy casual drinks as you get to know RDP's team, staffers, and legislators.
-You can download the flyer publicizing the event here. Contact [Danny Li](yl3261@columbia.edu) or [Ashley Carrington](ashleycarringonton52@gmail.com) for more details.
+You can download the flyer publicizing the event [here](http://rikersdebateproject.org/Lobby%20Day%20Flyer%20(1).pdf). Contact [Danny Li](yl3261@columbia.edu) or [Ashley Carrington](ashleycarringonton52@gmail.com) for more details.
 * **Petey Greene / RDP Debate:** "What's In a Name?" April 25, 3:30pm-5pm. Join us at NYU's Kimmel Center Room 405/406, 60 Wash. Sq. So., New York, NY 10012, for a timely debate on political correctness and naming conventions in criminal justice. Contact [Charlotte](cmk586@nyu.edu) for more information.
 
 ### Zellnor Myrie Candidate Forum
