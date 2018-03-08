@@ -35,7 +35,7 @@ On February 26th, the Rikers Debate Project held its first candidate forum, with
 > He took every question, and helped us all understand complicated issues like the Independent Democratic Caucus, tenant and housing laws, and immigrant representation. 
 > I look forward to hearing from Senator Jesse Hamilton for a future event like this.”
 
-      *- Fellow Camilla*
+*- Fellow Camilla*
 
 ### Class Updates
 
