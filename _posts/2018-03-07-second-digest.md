@@ -28,7 +28,7 @@ You can download the flyer publicizing the event here. Contact [Danny Li](yl3261
 
 On February 26th, the Rikers Debate Project held its first candidate forum, with Zellnor Myrie, a young lawyer who is running for State Senate in a district including parts of Crown Heights, Prospect Heights, Park Slope, and Sunset Park in Brooklyn. Mr. Myrie is challenging Senator Jesse Hamilton, who belongs to the IDC, a group of Democrats who vote with the Republicans in the New York State Senate. This has provoked much controversy, and Mr Myrie is running against Senator Hamilton to throw the Republicans out of power and create a unified Democratic majority.
 
-> I was the moderator for the Zellnor Myrie town hall on the 26th. 
+> "I was the moderator for the Zellnor Myrie town hall on the 26th. 
 > We presented Mr. Myrie with an assortment of questions on both criminal justice and housing related issues among others. 
 > His answers were genuine and articulate. He was personable and thoughtful in his responses. 
 > Although it was a small venue and audience, he gave us his full attention. 
