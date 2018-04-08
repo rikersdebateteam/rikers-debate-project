@@ -10,8 +10,6 @@ Sincerely,
 Alex Taubes
 RDP Board Secretary
 
-### Call for Board of Advisors Applications
-
 ### Executive Director's Announcements
 
 * **Fundraiser Date Set:** Our next RDP fundraiser will be held the evening of Monday, June 4th at Davis Polk and Wardwell in Midtown Manhattan with the topic "People in prison ought be paid minimum wage for their labor." Please email [Josh](joshcmorrison@gmail.com) if you are interested in helping plan the event. 
@@ -26,20 +24,18 @@ RDP Board Secretary
 
 * **Petey Greene / RDP Debate:** "What's In a Name?" April 25, 3:30pm-5pm. Join us at NYU's Kimmel Center Room 405/406, 60 Wash. Sq. So., New York, NY 10012, for a timely debate on political correctness and naming conventions in criminal justice. Contact [Charlotte](cmk586@nyu.edu) for more information.
 
-* **Fellowship Program Fundraiser:**
+* **Fellowship Program Fundraiser:** June 4, 2018, at 7-10PM, at Davis Polk & Wardwell, 450 Lexington Ave, NY.  
 
-June 4, 2018
-7-10PM
-Davis Polk & Wardwell, 450 Lexington Ave, NY.  
-
-We have set a time and place for our fundraiser with the goal of raising $30,000 toward our fellowship program. The fundraiser will feature a public debate. Our first fellow, Camilla, has been leading our organization's advocacy efforts (at the candidate forum and at our inaugural lobby day as well as other activities) and will be a guest of honor at the event. If you are interested in serving on the host committee or otherwise getting involved, please contact [Josh](joshcmorrison@gmail.com) for more details.
+* We have set a time and place for our fundraiser with the goal of raising $30,000 toward our fellowship program. The fundraiser will feature a public debate. Our first fellow, Camilla, has been leading our organization's advocacy efforts (at the candidate forum and at our inaugural lobby day as well as other activities) and will be a guest of honor at the event. If you are interested in serving on the host committee or otherwise getting involved, please contact [Josh](joshcmorrison@gmail.com) for more details.
  
 * **ACLU / RDP Public Debate:** Great news! The ACLU and DOC have reached agreement on a date for our next public debate at Rikers Island. The debate will be held Tuesday, June 18th with Tuesday, June 25th as a backup. Save both dates just in case. The ACLU has assigned two people to work on the event with us, demonstrating their excitement and commitment to this debate. Please get in touch with [Ashley](ashley.carrington52@gmail.com) if you want to get involved!
 
 ### Class Updates
 
-**EMTC (March 23, 30):** Class on 3/23 started with a frank discussion on the current state of pharmaceutical regulation in the US. Students were quick to point out the Martin Shkreli incident as profiteering in the pharmaceutical industry, but were less aware of Merck's efforts to supply enough drugs to cure river blindness in many parts of the world. We then transitioned to the debate technique of the class, structuring arguments in the A-R-E format. It was a good refresher for our veteran students, and a great introduction to debate for our newer ones. Students were asked to formulate an argument for or against pharmaceutical regulation in the US and present in front of the class. 
-Class on 3/30 had an excellent start as we finally received our long-awaited call-down list! We were also excited to welcome several new students and began by reviewing the core components of an argument: the assertion, reasoning, and evidence ("ARE"). The new students quickly grasped the concept and applied it to topics of their choice, from whether television is good for children to whether prosecutors have too much power. We then transitioned to the topic of the day, performance-enhancing drugs in sports. Almost every student opposed steroid use, emphasizing that it is cheating and dangerous for athletes' health. But they embraced the challenge of arguing against what they believed, noting that enhanced sports would be more entertaining and that individuals should have the right to decide what to put in their bodies. 
+**EMTC (March 23, 30):** Class on 3/23 started with a frank discussion on the current state of pharmaceutical regulation in the US. Students were quick to point out the Martin Shkreli incident as profiteering in the pharmaceutical industry, but were less aware of Merck's efforts to supply enough drugs to cure river blindness in many parts of the world. We then transitioned to the debate technique of the class, structuring arguments in the A-R-E format. It was a good refresher for our veteran students, and a great introduction to debate for our newer ones. Students were asked to formulate an argument for or against pharmaceutical regulation in the US and present in front of the class.
+
+Class on 3/30 had an excellent start as we finally received our long-awaited call-down list! We were also excited to welcome several new students and began by reviewing the core components of an argument: the assertion, reasoning, and evidence ("ARE"). The new students quickly grasped the concept and applied it to topics of their choice, from whether television is good for children to whether prosecutors have too much power. We then transitioned to the topic of the day, performance-enhancing drugs in sports. Almost every student opposed steroid use, emphasizing that it is cheating and dangerous for athletes' health. But they embraced the challenge of arguing against what they believed, noting that enhanced sports would be more entertaining and that individuals should have the right to decide what to put in their bodies.
+
 **GRVC (March 24, 31):** Josh and Angela held a productive meeting with representatives at DOC last week to address attendance problems at GRVC. Proposed solutions were discussed and will be brought to the administration of the facility for further discussion and approval. 
 
 Unfortunately, the March 31 class at GRVC was canceled due to a facility lockdown. However, the GRVC team is happy to report that -- despite the attendance problems we have been having -- the March 24 class was a huge success. Held on the same day as the national "March for Our Lives" events protesting the lack of gun control action in the wake of the Parkland school massacre and other mass shootings, the team at GRVC took the debate in another direction: should 16 and 17 year olds be given the right to vote? The abstract, thought-provoking, and oft-debated topic of [Demeny voting](https://en.wikipedia.org/wiki/Demeny_voting) was also discussed.
@@ -69,8 +65,8 @@ Although the Rikers Debate Project is always excited to welcome our students hom
 
 ### Expansion Update
 
-**No new updates except that our first class at York (Niantic, CT) will be held on Saturday morning (4/7)!
+**No new updates except that our first class at York (Niantic, CT) will be held on Saturday morning (4/7)!**
  
-Thank you to *Eva Marie Quinones, Sylvia Kang, Michael Abraham, Max Lecar, Jenny Tumas, and Marco Fiallos*, our inaugural volunteers for the York class, and a special shout-out to *Ann Manov* and *Alex Taubes* for helping this chapter get off the ground!**
+**Thank you to *Eva Marie Quinones, Sylvia Kang, Michael Abraham, Max Lecar, Jenny Tumas, and Marco Fiallos*, our inaugural volunteers for the York class, and a special shout-out to *Ann Manov* and *Alex Taubes* for helping this chapter get off the ground!**
  
-If you'd like to get involved in expansion initiatives in Boston, New Orleans, San Francisco, or any other regions of the US (or know anyone who would), please reach out to [Pat](patrick.andriola@gmail.com).
+*If you'd like to get involved in expansion initiatives in Boston, New Orleans, San Francisco, or any other regions of the US (or know anyone who would), please reach out to [Pat](patrick.andriola@gmail.com).*
