@@ -15,7 +15,3 @@ If you are only interested in teaching class and not joining a work group, we as
 <iframe src="https://rikersdebateproject.secure.force.com/GW_Volunteers__VolunteersSignupFS" 
 frameborder="0" scrolling="false" height="600" width="100%">
 </iframe>
-
-<iframe src="https://docs.google.com/document/d/14_rATuPsSx7pn2vuPx-eWg_qZzM4IUTnLUERU8GVx68/pub?embedded=true" width="100%" height="750">
-</iframe>
-
